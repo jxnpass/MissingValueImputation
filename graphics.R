@@ -156,7 +156,7 @@ ggplot(data = full_results$tests,
   labs(
     title = "Little's MCAR Test Statistics",
     subtitle = bquote("Deriving from " * chi^2 * " Distribution"),
-    caption = "A Test Statistic Greater Than "
+    caption = "A Test Statistic Greater Than 16.83 Indicates Significance at p < .05",
     x = "Test Statistic", 
     y = "Density"
   ) +

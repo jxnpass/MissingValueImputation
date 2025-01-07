@@ -1,0 +1,15 @@
+# Ignore R project files
+*.Rproj
+.Rproj.user/
+
+# Ignore report files
+*.pdf
+*.tex
+
+# Ignore data files
+*.dat
+
+# Ignore other files
+Hep.R
+dist_testing.R
+images/hep_missing.png

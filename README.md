@@ -7,5 +7,5 @@ The methods used are as follows:
 
 For this repository, the sim.R and sim_functions.R carry the simulation study settings (dataset size, correlation parameter, missing data type, and imposed pattern). The graphics.R create the plots found in the images folder (except for the tables, as they are created using LaTeX). 
 
-For a detailed description of the project, [view my blog post](https://jxnpass.github.io/2025/01/06/MissingValueImputation.html).
+For a detailed description of the project, [view my blog post](https://jxnpass.github.io/2025/01/07/MissingValueImputation.html).
 
